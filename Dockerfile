@@ -50,4 +50,5 @@ VOLUME ["/var/www/html2"]
 
 EXPOSE 80
 EXPOSE 11151
+EXPOSE 11152
 
